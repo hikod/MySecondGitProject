@@ -7,7 +7,7 @@ public class GoodEvening {
 		for (int i = 0; i < 12; i++) {
 			System.out.println("it is still too early to go home");
 
-		}
+		}System.out.println("Aslan's update");
 
 	}
 
